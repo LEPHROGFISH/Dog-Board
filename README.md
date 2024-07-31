@@ -21,3 +21,7 @@ Board above the computer that shows random images of dogs via the [Dog Ceo's Api
 # [Download](<https://github.com/LEPHROGFISH/GSabers/releases/download/v1/GSabers.dll>)
 
 **DM ME IF THERE ARE ANY BUGS**
+
+# Preview
+![Preview](https://github.com/LEPHROGFISH/Dog-Board/blob/main/Screenshot%202024-07-31%20190242.png?raw=true)
+
