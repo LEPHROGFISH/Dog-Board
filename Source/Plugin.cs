@@ -55,9 +55,6 @@ namespace DogBoard
             api.Initialize(screenMat);
             Button.AddComponent<Button>();
             Button.layer = 18;
-
-            //Temp AKA DELETE WHEN DONE
-            GameObject.Find("Third Person Camera").SetActive(false);
             
         }
 
