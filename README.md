@@ -9,7 +9,7 @@ Board beside the computer that shows random images of dogs via the [Dog Ceo's Ap
 > Press the button on the bottom right of the screen to get a new dog pic(A dog pic is automatically picked at the start of the game)
 
 **Future Plans(Can Change):**
-> *Cat Pictures,
+>* Cat Pictures,
 > *Filtering Dog Breed,
 > *Image Saving
 
