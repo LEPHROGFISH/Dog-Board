@@ -19,6 +19,5 @@ Board beside the computer that shows random images of dogs via the [Dog Ceo's Ap
 >* & an Internet Connection
 
 # [Download](<https://github.com/LEPHROGFISH/GSabers/releases/download/v1/GSabers.dll>)
-# [Source](<https://github.com/LEPHROGFISH/GSabers>)
 
 **DM ME IF THERE ARE ANY BUGS**
