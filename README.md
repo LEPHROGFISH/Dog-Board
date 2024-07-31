@@ -10,8 +10,8 @@ Board beside the computer that shows random images of dogs via the [Dog Ceo's Ap
 
 **Future Plans(Can Change):**
 >* Cat Pictures,
-> *Filtering Dog Breed,
-> *Image Saving
+>* Filtering Dog Breed,
+>* Image Saving
 
 **Mod Requirements**
 > [Utilla](<https://github.com/legoandmars/Utilla/releases/tag/v1.6.14>),
