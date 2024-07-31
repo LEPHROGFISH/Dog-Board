@@ -1,6 +1,6 @@
 # Dog Board
 
-Board beside the computer that shows random images of dogs via the [Dog Ceo's Api](<https://dog.ceo/dog-api/>)
+Board above the computer that shows random images of dogs via the [Dog Ceo's Api](<https://dog.ceo/dog-api/>)
 
 **Features:**
 >* Random Dog Pictures
